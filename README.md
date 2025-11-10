@@ -35,8 +35,7 @@ The design combines modular hardware components and an embedded processor to rep
 
 ## Summary
 
-This FPGA-based Pong game demonstrates effective **hardware–software integration**, **real-time embedded control**, and **modular digital system design**.  
-It highlights skills in **VHDL development**, **embedded programming**, and **FPGA-based system architecture**, aligning closely with research areas in **embedded systems design**.
+This FPGA-based Pong game demonstrates effective **hardware–software integration**, **real-time embedded control**, and **modular digital system design**. It highlights skills in **VHDL development**, **embedded programming**, and **FPGA-based system architecture**, aligning closely with research areas in **embedded systems design**.
 
 
 
